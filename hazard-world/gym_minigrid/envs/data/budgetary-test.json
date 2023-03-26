@@ -1,0 +1,126 @@
+{
+  "water5": [
+    "CROSS THE WATER FIVE TIMES OR LESS",
+    "Don't touch water more than five times.",
+    "The water should only be stepped on a max of 5 times.",
+    "You are only allowed to touch 5 water blocks.",
+    "Don't stay on the water more than 5 turns."
+  ],
+  "lava5": [
+    "Never hit lava more than five times.",
+    "Only cross lava five times or less.",
+    "The lava can be stepped on 5 times only.",
+    "Lava hurts a lot, but you have special shoes that you can use to walk on it, but only up to 5 times, remember!",
+    "You can cross lava, but only 5 times or less."
+  ],
+  "grass5": [
+    "walk on grass five times or less",
+    "Do not enter the grass more than five times.",
+    "5 is the maximum amount of times that you should walk over grass.",
+    "Five times is the maximum you can go over the grass.",
+    "You should stand on the grass not more than 5 times"
+  ],
+  "water4": [
+    "Four is the most number of times you can touch water",
+    "DONOT CROSS THE WATER MORE THAN FOUR TIMES",
+    "You can only go on the water 4 times.",
+    "You can touch water up to exactly 4 times but no more.",
+    "Don't stand on the water more than 4 times"
+  ],
+  "lava4": [
+    "Do not touch lava more than four times.",
+    "Lava may be entered a maximum of four times.",
+    "Don't exceed four times walking on lava.",
+    "This lava is very dangerous, even your metal soles can't sustain them for more than 4 times you walk on it.",
+    "4 times is the limit you can step on the lava."
+  ],
+  "grass4": [
+    "You can touch grass up to four times. Do not touch grass more than four times.",
+    "Do not touch grass more than four times.",
+    "You can walk on grass, but only 4 times.",
+    "You can only touch grass 4 times, so after that avoid the grass blocks.",
+    "4 is the maximum number of times you can walk on grass."
+  ],
+  "water3": [
+    "Three times is the most number of times that you can step on water.",
+    "Do not touch the water more than three times.",
+    "3 times is the max you can step on the water.",
+    "Do not walk over water more than thrice.",
+    "Stand on water only thrice"
+  ],
+  "lava3": [
+    "touch lava three times at most",
+    "Don't stand on lava more than thrice",
+    "You can only touch lava 3 times.",
+    "The lava is really hot, so it will hurt you a lot. Please only walk on it 3 times or less because after that your shoe can't take it anymore."
+  ],
+  "grass3": [
+    "Don't touch grass more than three times",
+    "You can move on grass at most 3 times.",
+    "You can walk on grass no more than three times.",
+    "Normally grass doesn't hurt, but if you step on it more than 3 times, it becomes angry and hurts you!",
+    "You can only walk on the grass block three times at the very most."
+  ],
+  "water2": [
+    "Do not touch water more than two times.",
+    "Do not touch the water more than twice at most.",
+    "The water can only be crossed 2 times.",
+    "You can only walk on the water blocks twice, at most.",
+    "You can only touch water two times."
+  ],
+  "lava2": [
+    "Refrain from touching lava more than two times.",
+    "Touch the lava two or less times.",
+    "The lava can only be stepped on 2 times.",
+    "Try to avoid stepping on lava - you can get away with it twice, but the third time it's game over.",
+    "You should not stand on the lava more than twice"
+  ],
+  "grass2": [
+    "Do not touch grass more than two times.",
+    "Only touch the grass two times or less.",
+    "You can only touch the grass twice.",
+    "You can touch the grass twice, but no more than that.",
+    "Only walk on grass twice."
+  ],
+  "water1": [
+    "You can walk on water at most once.",
+    "Do not touch the water more than once.",
+    "You can get in the water, but only once.",
+    "Only step on the water a max of 1 time.",
+    "Only step on a water block once."
+  ],
+  "lava1": [
+    "Do not touch lava more than one time.",
+    "Only touch the lava one time.",
+    "Make sure to step on the lava on 1 time.",
+    "Do not step on grass more than one time"
+  ],
+  "grass1": [
+    "touch grass at most once ",
+    "Don't touch the grass more than once.",
+    "Do NOT walk on the grass more than one time.",
+    "Only walk on grass once.",
+    "Stand on grass only once"
+  ],
+  "water0": [
+    "Refrain from touching the water.",
+    "Never enter water.",
+    "You can't touch the water blocks at all.",
+    "Never touch water.",
+    "Stay clear off the water because you will drown."
+  ],
+  "lava0": [
+    "avoid lava",
+    "If you walk on lava, you die.",
+    "Avoid all lava.",
+    "Don't touch lava!",
+    "Don't ever stop on the lava, not once."
+  ],
+  "grass0": [
+    "Never touch grass.",
+    "Stay away from grass.",
+    "Don't ever stand on grass",
+    "Stay off the grass!",
+    "Avoid the grass completely."
+  ]
+}

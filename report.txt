@@ -1,0 +1,19 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 1 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+--------------------------------------------------------------------------------
+Processing file '/home/hongyou/TUB/SRL-NLC/safety-starter-agents/safe_rl/utils/logx.py'
+ outputting to '/home/hongyou/TUB/SRL-NLC/safety-starter-agents/safe_rl/utils/logx.py'
+--------------------------------------------------------------------------------
+
+55:4: INFO: Renamed 'tf.saved_model.loader.load' to 'tf.compat.v1.saved_model.loader.load'
+57:17: INFO: Renamed 'tf.saved_model.tag_constants.SERVING' to 'tf.saved_model.SERVING'
+224:12: INFO: Renamed 'tf.saved_model.simple_save' to 'tf.compat.v1.saved_model.simple_save'
+--------------------------------------------------------------------------------
+

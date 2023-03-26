@@ -1,0 +1,24 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 1 files
+Detected 1 issues that require attention
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+File: /home/hongyou/TUB/SRL-NLC/safety-starter-agents/safe_rl/pg/network.py
+--------------------------------------------------------------------------------
+/home/hongyou/TUB/SRL-NLC/safety-starter-agents/safe_rl/pg/network.py:118:14: WARNING: tf.get_variable requires manual check. tf.get_variable returns ResourceVariables by default in 2.0, which have well-defined semantics and are stricter about shapes. You can disable this behavior by passing use_resource=False, or by calling tf.compat.v1.disable_resource_variables().
+================================================================================
+Detailed log follows:
+
+================================================================================
+--------------------------------------------------------------------------------
+Processing file '/home/hongyou/TUB/SRL-NLC/safety-starter-agents/safe_rl/pg/network.py'
+ outputting to '/home/hongyou/TUB/SRL-NLC/safety-starter-agents/safe_rl/pg/network.py'
+--------------------------------------------------------------------------------
+
+118:14: WARNING: tf.get_variable requires manual check. tf.get_variable returns ResourceVariables by default in 2.0, which have well-defined semantics and are stricter about shapes. You can disable this behavior by passing use_resource=False, or by calling tf.compat.v1.disable_resource_variables().
+118:14: INFO: Renamed 'tf.get_variable' to 'tf.compat.v1.get_variable'
+120:14: INFO: Renamed 'tf.random_normal' to 'tf.random.normal'
+120:31: INFO: Added keywords to args of function 'tf.shape'
+--------------------------------------------------------------------------------
+

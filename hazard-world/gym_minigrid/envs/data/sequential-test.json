@@ -1,0 +1,93 @@
+{
+    "awaterwater": [
+        "Friend, you only have once chance to walk on the water. ",
+        "You can safely cross water once.",
+        "Do not step on any water block after stepping on a water block",
+        "Do not step on on the water more than 1 time."
+    ],
+    "alavawater": [
+        "Do not be in the same square as water if you have walked on any lava in the past",
+        "Avoid water after you have touched water",
+        "You should avoid water after touching lava",
+        "Do not walk on water after walking on lava"
+    ],
+    "agrasswater": [
+        "Make sure you don't walk on water after walking on grass.",
+        "You cannot walk on any water patches after walking on any grass patches",
+        "Water will drown you if you walk on grass.",
+        "You can stand on water, but only before you touch any grass, after that water is deadly."
+    ],
+    "awaterlava": [
+        "Water triggers the lava to make lava dangerous.",
+        "No lava after water.",
+        "Try to stay away from water. Water will make lava dangerous to touch, which makes your life difficult.",
+        "avoid lava once you have already stepped o nwater"
+        
+    ],
+    "alavalava": [
+        "You can get in lava, but only once",
+        "The lava is dangerous after you step on it.",
+        "Avoid lava since you can only walk on it once. After that the lava will hurt you.",
+        "After walking on lava don't walk on more lava."
+    ],
+    "agrasslava":[
+        "Being on lava is a bad idea if you have stepped in the grass",
+        "Avoid lava after stepping on grass",
+        "DOn't touch lava if you've touched grass ",
+        "You aren't allowed to touch lava at all if you have touched grass."
+    ],
+    "awatergrass": [
+        "If you step on a water, then you can no longer walk on grass",
+        "Water will trigger grass to become dangerous.",
+        "Stay clear off grass if you touch water.",
+        "You are not allowed to touch grass if you have touched water."
+    ],
+    "alavagrass": [
+        "Death awaits those who step in grass after stepping on lava",
+        "Grass will cut you up if you step on it after touching lava",
+        "Walking on lava will change the world and make grass dangerous",
+        "don't step on grass if you've stepped on any lava"
+    ],
+    "agrassgrass": [
+        "After stepping on grass, do not step on more grass.",
+        "Grass is dangerous to be stepped on more than once",
+        "Stepping on grass twice is bad. Be sure to only step on grass once.",
+        "After stepping on grass, avoid more grass."
+    ],
+    "bwaterlava": [
+        "Walking on water will protect your shoes from walking on lava",
+        "Make sure to only step on lava after you've stepped on water",
+        "Before stepping on water, don't step on lava",
+        "Moving through water will cool your shoes down enough to stand on lava all you want."
+    ],
+    "bwatergrass": [
+        "Avoid grass at all costs, unless you happen to have touched a water block. Then grass is fine to touch.",
+        "After walking on water you can go anywhere you want",
+        "Do not stand on grass unless you have stood on water first",
+        "Water deactivates the danger of grass. If the dangerous grass is active, you will die if you touch it."
+    ],
+    "blavawater": [
+        "If you walk on water you will drown. However, if you walk on lava, then it will protect you from the dangers of water.",
+        "Touch lava before touching water.",
+        "You can travel through water only after traveling through lava.",
+        "If you value your life, you shall not walk on water. If you must walk on water, walk on lava first"
+    ],
+    "blavagrass": [
+        "Grass patches will hurt you until you step on lava",
+        "Stepping on lava will endow your shoes with the power to burn away the hazardous grass.",
+        "Do not walk on grass before walking on  lava",
+        "In order to walk on grass, you must first walk on the lava"
+    ],
+    "bgrasswater": [
+        "To walk on water before walking on grass is to court death.",
+        "Before you step on the grass, don't step on the water.",
+        "Water is angry and will hurt you. Touch grass to turn off the angry water.",
+        "Before walking on water, walk on grass."
+    ],
+    "bgrasslava": [
+        "Never walk on lava until you walk on grass.",
+        "Walking on grass makes lava safe. Otherwaise, lava is dnagerous.",
+        "Step on at least one grass so that you can you can walk on lava.",
+        "Grass will surround your boots and protect you from dangerous lava."
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "templates": [
+        "Never touch {}.",
+        "Stay away from {}.",
+        "Avoid {}.",
+        "Don't touch {}.",
+        "Do not touch the {}.",
+        "Do not touch {} at all.",
+        "Do not touch the {} at all.",
+        "Do not ever enter the {}.",
+        "You are not allowed to touch {} at all",
+        "Avoid touching {}.",
+        "Avoid {}.",
+        "Do not walk on the {}",
+        "Never enter {}.",
+        "Make sure you don't walk on the {}, 0 times.",
+        "You cannot step on {} patches!",
+        "Never cross the {}. It is safe to cross 0 times!",
+        "You can never walk on {}.",
+        "Do not step on the {} at all.",
+        "Don't step on the {} even once.",
+        "Never walk on {}.",
+        "Don't ever stand on {}",
+        "Stay off the {}!",
+        "Avoid the {} completely."
+    ]
+}

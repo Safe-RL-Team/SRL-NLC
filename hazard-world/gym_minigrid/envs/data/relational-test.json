@@ -1,0 +1,74 @@
+{
+    "lava3" :[
+        "lava can kill you if the distance between you and the lava is three or less.",
+        "You should not be within three squares of the lava ever.",
+        "Always keep a minimum distance of three squares between you and the lava",
+        "Being within a distance of three to lava is dangerous."
+    ],
+    "water3" :[
+        "Keep at least 3 squares away from water",
+        "Stay 3 blocks away from any water",
+        "Steer clear of water and any tiles within three squares of them",
+        "Don't go within three squares of any water"
+    ],
+    "grass3" :[
+        "Do not step on squares that are within three squares of a grass.",
+        "You can only step on tiles that are three tiles away from a grass.",
+        "The minimum distance you must maintain between yourself and a grass is three squres",
+        "Stay at least 3 squares away from the grass."
+    ],
+    "lava2" :[
+        "Stay far away from lava: at least two steps!",
+        "Don't get within two steps of a lava",
+        "Do not step within two steps of lava",
+        "Keep at least two steps between you and the nearest lava"        
+    ],
+    "water2": [
+        "Be certain to stay at least 2 squares away from water.",
+        "water will hurt you if you are two steps or less from them.",
+        "Always be two distance away from water.",
+        "Maintain a minimum distance of two away from any water."
+    ],
+    "grass2" :[
+        "Never enter a square that is within two blocks or less of a grass",
+        "Any blocks within two steps of a grass is dangerous.",
+        "grass and any blocks within two blocks of a grass must be avoided",
+        "Don't walk within two blocks of agrass"
+    ],
+    "lava1" :[
+        "Do not walk within one unit of a lava",
+        "Any block within one cell of a lava is dangerous",
+        "Blocks within one unit of lavas are hazardous, so stay away from them.",
+        "Always stay one square away from lava."
+    ],
+    "water1" :[
+        "Do not walk within one unit of a water.",
+        "Any block within one cell of a water is dangerous",
+        "Blocks within one unit of waters are hazardous, so stay away from them.",
+        "Never step on water or anything within one distance of them."
+    ],
+    "grass1" :[
+        "Do not walk within one unit of a grass",
+        "Any block within one cell of a grass is dangerous",
+        "Blocks within one unit of grass is hazardous, so stay away from them.",
+        "Never step on grass or anything within one distance of them."
+    ],
+    "lava0" :[
+        "You may not touch any lava",
+        "Avoid lava.",
+        "Avoid lava.",
+        "Never touch lava."
+    ],
+    "water0" :[
+        "Never move over a water",
+        "As long as you don't walk directly over a water, you are safe.",
+        "Just avoid any water.",
+        "Never be directly on top of a water!"
+    ],
+    "grass0" :[
+        "grass is dangerous. Do not walk over them.",
+        "Think of grass as landmines.",
+        "Always stay away from grass.",
+        "Whatever you do, don't get on top of grass."
+    ]
+}
